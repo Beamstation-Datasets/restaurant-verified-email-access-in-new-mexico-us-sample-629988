@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f9f096fa-f618-4a18-92e2-c37693b07a7d",
+  "export_job_id": "e6db54a2-d5d2-4c53-a034-a87f7d76eed2",
   "id_short": 629988,
-  "published_at": "2026-04-18T19:33:32Z",
+  "published_at": "2026-04-22T20:00:00Z",
   "repo_name": "restaurant-verified-email-access-in-new-mexico-us-sample-629988",
   "sample_asset_name": "beamstation_629988_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/629988/beamstation_629988_restaurants-us-nm_SAMPLE_DIST.csv",
-  "sample_records": 75,
-  "sample_sha256": "537df26fd565ae2a673c1144c6a082e52756f7595746178ba5851e6735202df5",
-  "sample_size_bytes": 305931,
-  "total_records": 751
+  "sample_records": 49,
+  "sample_sha256": "5f692d570954be8db81a6434e656ca3e77de38d599798eebece20d65c5abb864",
+  "sample_size_bytes": 209912,
+  "total_records": 495
 }
