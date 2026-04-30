@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in New Mexico, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 80 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `629988` |
 | Location | New Mexico |
 | Category | Restaurants |
-| Full dataset size | 495 records |
-| Free sample size | 49 records (9.9%) |
-| Last export | 2026-04-22T09:40:22.244818+00:00 |
+| Full dataset size | 807 records |
+| Free sample size | 80 records (9.91%) |
+| Last export | 2026-04-29T11:10:51.230374+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-new-mexico-us-sample-629988/releases/download/sample-latest/beamstation_629988_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
